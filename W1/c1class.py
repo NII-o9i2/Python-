@@ -19,5 +19,6 @@ def sum_int(n):
     return res
 
 
-print(sum_int(10))
-judge_class(5)
+#print(sum_int(10))
+sum_int(5000)
+#judge_class(5)
